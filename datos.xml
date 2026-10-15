@@ -1,1 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<plantilla propietario="tu-usuario-github">
+
+  <jugador id="J01">
+    <nombre>Joaquín Sánchez</nombre>
+    <posicion>Extremo derecho</posicion>
+    <dorsal unidad="numero">17</dorsal>
+    <leyenda/>
+  </jugador>
+
+  <jugador id="J02">
+    <nombre>Rafael Gordillo</nombre>
+    <posicion>Lateral izquierdo</posicion>
+    <dorsal unidad="numero">3</dorsal>
+  </jugador>
+
+  <jugador id="J03">
+    <nombre>Nabil Fekir</nombre>
+    <posicion>Mediapunta</posicion>
+    <dorsal unidad="numero">8</dorsal>
+  </jugador>
+
+  <jugador id="J04">
+    <nombre>Rubén Castro</nombre>
+    <posicion>Delantero centro</posicion>
+    <dorsal unidad="numero">24</dorsal>
+  </jugador>
+
+</plantilla>
