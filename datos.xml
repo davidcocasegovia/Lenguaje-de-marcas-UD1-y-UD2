@@ -8,11 +8,11 @@
     <dorsal unidad="numero">17</dorsal>
     <leyenda/>
   </jugador>
-
   <jugador id="J02">
     <nombre>Rafael Gordillo</nombre>
     <posicion>Lateral izquierdo</posicion>
     <dorsal unidad="numero">3</dorsal>
+ 
   </jugador>
 
   <jugador id="J03">
@@ -27,4 +27,4 @@
     <dorsal unidad="numero">24</dorsal>
   </jugador>
 
-</plantilla>
+    </plantilla>
